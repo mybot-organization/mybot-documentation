@@ -1,33 +1,25 @@
 # Table of contents
 
-* [Bien commencer](README.md)
+* [Pour commencer](README.md)
 
-## BOT USAGE
+## fonctionnalitées <a href="#features" id="features"></a>
 
-* [Commandes](bot-usage/commands.md)
+* [Commandes slash](features/slash-commands/README.md)
+  * [soon](features/slash-commands/soon.md)
+* [Commandes de context](features/context-commands.md)
+* [Commandes diverses](features/misc-commands.md)
 
-## Commandes
+## Tutoriels <a href="#tutorials" id="tutorials"></a>
 
-* [Administration](commandes/administration/README.md)
-  * [Config](commandes/administration/config.md)
-  * [Role\_emote](commandes/administration/role_emote.md)
-* [Modération](commandes/moderation/README.md)
-  * [Clear](commandes/moderation/clear.md)
-  * [Sondage / Choices](commandes/moderation/sondage-choices.md)
-  * [Quizz](commandes/moderation/quizz.md)
-* [Informations](commandes/informations/README.md)
-  * [Help](commandes/informations/help.md)
-  * [Invite](commandes/informations/invite.md)
-  * [Ping](commandes/informations/ping.md)
-* [Fun](commandes/fun/README.md)
-  * [Emote](commandes/fun/emote.md)
-  * [Says](commandes/fun/says.md)
-  * [Caracterizer](commandes/fun/caracterizer.md)
-* [Utilitaires](commandes/utilitaires/README.md)
-  * [Translate](commandes/utilitaires/translate.md)
+* [Traduction par réactions](tutorials/reactions-translation.md)
 
-## Modules
+## Divers <a href="#misc" id="misc"></a>
 
-* [Translate](modules/translate.md)
-* [Restore](modules/restore.md)
+* [Permissions du bot](misc/bot-permissions.md)
 
+## Liens additionnels <a href="#extra-links" id="extra-links"></a>
+
+* [Roadmap](https://www.notion.so/mybot/7d8b2bf2dfad4f11b089caf557a2c1b4?v=3a49eabe53ef46089b6c879c529a7612\&pvs=4)
+* [Changelog](https://www.notion.so/mybot/6b77174afee4416392c19c04302b44f2?v=3fba0d6958e84b6a9a2b4eede1588206\&pvs=4)
+* [Politique de confidentialité](https://www.notion.so/mybot/Privacy-Policy-1bf8ddd2ffb042b5a03e891f875450e6?pvs=4)
+* [Condition générales d'utilisation](https://www.notion.so/mybot/MyBot-Terms-of-Service-09572cbeeb2645239725ee6874c66dd7?pvs=4)

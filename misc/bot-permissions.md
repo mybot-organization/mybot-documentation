@@ -1,0 +1,2 @@
+# Permissions du bot
+

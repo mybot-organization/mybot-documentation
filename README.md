@@ -2,24 +2,29 @@
 description: Lis cette page pour bien commencer avec le bot MyBot !
 ---
 
-# Bien commencer
+# Pour commencer
 
 ## Ajouter le bot
 
-Pour ajouter le bot, [clique ici](https://discordapp.com/oauth2/authorize?client_id=500023552905314304&scope=bot&permissions=805596240).  
-Pour obtenir de l'aide, tu peux rejoindre le [serveur support](https://discord.gg/GKTgHAf).
+La première chose à faire est bien évidemment d'installer le bot sur votre serveur.
 
-## Configurer le bot
+Commencez par ajouter le bot en vous rendant sur [ce lien](https://invite.mybot-discord.com).\
+Si vous avez des question, pensez aussi à rejoindre le [serveur support](https://discord.gg/WPs8ERuNQY).
 
-![D&apos;abord, regarde si le bot &#xE0; l&apos;autorisation &quot;d&apos;envoyer des messages&quot; et de &quot;lire les messages&quot; sur le serveur. Tu peux aussi mettre la permission &quot;administrateur&quot;](.gitbook/assets/image.png)
+## Avant d'aller plus loin
 
-Maintenant, tu peux par exemple définir un préfixe personnalisé avec la commande `!config`
+Assurez-vous que le bot ai les bonnes permissions sur votre serveur avant d'aller plus loin ! C'est la principale raison de disfonctionnements du bot.
 
-{% page-ref page="commandes/administration/config.md" %}
+Pour plus de détails si vous avez des soucis, un guide est a votre disposition.
 
-## Utiliser le bot
+{% content-ref url="misc/bot-permissions.md" %}
+[bot-permissions.md](misc/bot-permissions.md)
+{% endcontent-ref %}
 
-Ensuite, pour savoir en détail ce que fait le bot, je t'invite à te référer aux pages suivantes :
+## Informations sur la documentation
 
-{% page-ref page="bot-usage/commands.md" %}
+Cette documentation se divise en 3 parties :&#x20;
 
+* Une partie présentant simplement chacune des fonctionnalités du bot. C'est l'équivalent de la commande d'aide du bot.
+* Une partie contenant des petits tutoriels précis sur certaines fonctionnalités du bot.
+* Une partie avec diverses autres informations pouvant être utiles à l'utilisation du bot.&#x20;
