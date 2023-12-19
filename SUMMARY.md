@@ -5,7 +5,7 @@
 ## fonctionnalitées <a href="#features" id="features"></a>
 
 * [Commandes slash](features/slash-commands/README.md)
-  * [soon](features/slash-commands/soon.md)
+  * [/clear](features/slash-commands/clear.md)
 * [Commandes de context](features/context-commands.md)
 * [Commandes diverses](features/misc-commands.md)
 
