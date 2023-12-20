@@ -1,6 +1,4 @@
-# /clear <img src="../../.gitbook/assets/complete (2).svg" alt="" data-size="line">
-
-## <img src="../../.gitbook/assets/complete (2).svg" alt="" data-size="line">
+# /clear
 
 ***
 
