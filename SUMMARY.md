@@ -15,6 +15,8 @@
 
 ## Divers <a href="#misc" id="misc"></a>
 
+* [Tags](misc/tags.md)
+* [Autoriser une commande](misc/autoriser-une-commande.md)
 * [Permissions du bot](misc/bot-permissions.md)
 
 ## Liens additionnels <a href="#extra-links" id="extra-links"></a>
