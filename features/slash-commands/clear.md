@@ -6,7 +6,7 @@ Veniam enim fugiat sint qui dolor qui laborum reprehenderit ea proident quis sin
 
 ## Informations
 
-### Tags : <img src="../../.gitbook/assets/complete.svg" alt="beta" data-size="line">
+### Tags : [<img src="../../.gitbook/assets/complete.svg" alt="beta" data-size="line">](../../misc/tags.md)
 
 ### Permissions
 
